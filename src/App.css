@@ -1,0 +1,77 @@
+.App {
+  max-width: 1170px;
+  margin: auto;
+  padding: 30px;
+}
+
+.App-logo {
+  /*animation: App-logo-spin infinite 20s linear;*/
+  width: 100%;
+  border-radius: 5px;
+  padding: 2px;
+  -webkit-box-shadow: 0 0 5px 0px rgba(0,0,0,0.35);
+  -moz-box-shadow: 0 0 5px 0px rgba(0,0,0,0.35);
+  box-shadow: 0 0 5px 0px rgba(0,0,0,0.35);
+}
+
+.App-btn{
+  margin: 15px 0px;
+}
+
+.App-conainer{
+  display: flex;
+  flexWrap: wrap;
+  justifyContent: space-around;
+}
+
+.App-text-center{
+  text-align: center;
+}
+
+.App-ul{
+  min-height: 20px;
+  margin-bottom: 20px;
+  position: relative;
+  padding: 0px;
+}
+
+.prev{
+  font-size: 14px;
+  color: #777;
+  user-select: none;
+  vertical-align: top;
+  display: inline-block;
+}
+.next{
+  font-size: 14px;
+  color: #777;
+  user-select: none;
+  vertical-align: top;
+  display: inline-block;
+  float: right;
+}
+
+.App-repositories {
+  padding: 15px 30px;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  -webkit-box-shadow: 0 0 5px 0px rgba(0,0,0,0.35);
+  -moz-box-shadow: 0 0 5px 0px rgba(0,0,0,0.35);
+  box-shadow: 0 0 5px 0px rgba(0,0,0,0.35);
+}
+
+a{
+  color: #3f51b5;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #3f51b5;
+  text-decoration: underline;
+}
+
+
+/*@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}*/
