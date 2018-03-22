@@ -1,6 +1,6 @@
 const apiUrl = 'https://api.github.com'
 
-const oauth = '?access_token=eaa4c82bd09632ca90fb57818317a40b057a7ae2'
+const oauth = '?access_token=b55e1df984b6d56c0aac358c3d9f548184cbd865'
 
 export default {
   getUser (request, success, error) {
