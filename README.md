@@ -1,6 +1,6 @@
 # github-user-react
 
-> Uma aplicação em React.js para buscar usuários no GitHub utilizando OAuth
+> Uma aplicação em React.js para buscar usuários no GitHub utilizando OAuth com estilização Material UI Next
 
 
 ## Build Setup
